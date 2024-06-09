@@ -764,6 +764,9 @@ form .btn{
       padding: 0.7rem 0;
       font-size: 0.79rem;
     }
+    .contact{
+      padding: 50px 8px;
+    }
 
     .contact-container{
       display: grid;
