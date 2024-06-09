@@ -764,14 +764,11 @@ form .btn{
       padding: 0.7rem 0;
       font-size: 0.79rem;
     }
-    .contact{
-      padding-block: 50px;
-      padding-right: 2%;
-    }
 
     .contact-container{
       display: grid;
       grid-template-columns: repeat(1,1fr);
+      padding-inline: 5%;
       
     }
     .footer{
