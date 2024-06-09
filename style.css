@@ -771,6 +771,14 @@ form .btn{
       padding-inline: 5%;
       
     }
+    .map{
+      width: 90%;
+    }
+    .form{
+      width: 90%;
+      max-height: 600px;
+      background-image: url(images/contact-bg.jpg);
+    }
     .footer{
       display: flex;
       flex-direction: column;
